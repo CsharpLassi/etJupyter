@@ -1,2 +1,8 @@
+# Pictures
+**/*.png
+
+# Temp Files
+**/tmp
+
 # Jupyter
 **/.ipynb_checkpoints/*
